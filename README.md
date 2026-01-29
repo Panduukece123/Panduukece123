@@ -1,6 +1,4 @@
 # 💫 About Me:
-🧞‍♀️ I'm currently working on<br>Menyelesaikan program magang saya sebagai Front-End Developer di UPA TIK UPN Veteran Jakarta.<br><br>👯‍♀️ I'm looking to collaborate on<br>Proyek pengembangan web yang inovatif atau ide-ide baru. Saya terbuka untuk membangun sesuatu yang keren bersama!<br><br>🌱 I'm currently learning<br>Mendalami Fullstack Web Development (PHP Laravel) melalui program Studi Independen di Nurul Fikri Academy.<br><br>💬 Ask me about<br>Pengembangan web (terutama front-end!), Laravel, program PKM-KI, atau kehidupan sebagai mahasiswa Informatika.<br><br>⚡ Fun fact<br>Saya adalah mahasiswa S-1 Informatika di UPNVJ yang berhasil lolos Pekan Ilmiah Nasional (PIMNAS) 2025 dengan proposal PKM-Karya Inovatif!
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@pan_du0303) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/panduns/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@pandunugrahas) 
