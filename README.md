@@ -1,5 +1,8 @@
 # 💫 About Me:
 
+Hi there! I'm Pandu Nugraha Saputra 👋
+I am a 6th-semester Computer Science student at UPN Veteran Jakarta, deeply passionate about Fullstack Web Development. Currently, I am wrapping up my internship as a Front-End Developer at UPA TIK UPNVJ and am a proud alumnus of the Nurul Fikri Academy (Fullstack Web Development) and the Stuident project. A major milestone in my journey was becoming a PIMNAS 2025 Alumni, where my PKM-Karya Inovatif proposal successfully secured national funding and led me to compete at Indonesia's most prestigious student scientific competition. I love building innovative web solutions and am always open to exciting new collaborations!
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@pan_du0303) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/panduns/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@pandunugrahas) 
 
